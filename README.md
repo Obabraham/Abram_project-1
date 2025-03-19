@@ -1,4 +1,4 @@
-[KISCO SUPER MART ANALYSIS DASHBOARD](https://github.com/user-attachments/assets/e4fea56b-6321-45f2-8176-f548f6bf7e22)
+![KISCO SUPER MART SALES PERFORMANCE ANALYSIS DASHBOARD](https://github.com/user-attachments/assets/ceb1c9c5-3157-4ab3-892b-847e01c08450)
 The 2023 and 2024 Performance Analysis for KISCO Super Mart, highlights significant strengths in sales performance while also identifying key areas that require improvement. The data-driven insights emphases KISCO Super Mart has a strong reliance on Government sales, which presents a risk if funding policies change, Paseo, despite being the highest-selling product, has the highest cost of sales, impacting overall profitability. Small Business and Emerging Markets (Mexico) present the most promising growth opportunities.
 
 Below are my Observation and Recommendations
