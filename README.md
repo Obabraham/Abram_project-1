@@ -1,3 +1,4 @@
+[KISCO SUPER MART ANALYSIS DASHBOARD](https://github.com/user-attachments/assets/e4fea56b-6321-45f2-8176-f548f6bf7e22)
 The 2023 and 2024 Performance Analysis for KISCO Super Mart, highlights significant strengths in sales performance while also identifying key areas that require improvement. The data-driven insights emphases KISCO Super Mart has a strong reliance on Government sales, which presents a risk if funding policies change, Paseo, despite being the highest-selling product, has the highest cost of sales, impacting overall profitability. Small Business and Emerging Markets (Mexico) present the most promising growth opportunities.
 
 Below are my Observation and Recommendations
@@ -6,7 +7,7 @@ OBSERVATIONS
 
 1.       2014 had a significantly higher profit than 2014. 2014 profit: ₦13,015,237.75, 2013 profit: ₦3,878,464.51
 
-2.       Government sector is the largest revenue contributor, having ₦52.5m in revenue, significantly higher than other segments.![KISCO SUPER MART ANALYSIS DASHBOARD](https://github.com/user-attachments/assets/e4fea56b-6321-45f2-8176-f548f6bf7e22)
+2.       Government sector is the largest revenue contributor, having ₦52.5m in revenue, significantly higher than other segments.!
 
 
 3.       Small business sales show growth potential small businesses contributed, having ₦42.4m, the second-largest segment after the government.
